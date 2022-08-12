@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @batmanjo
 - 👀 I’m interested in java 
-- 🌱 I’m currently learning spring
-- 💞️ I’m looking to collaborate on web develop
-- 📫 How to reach me 2931587110@qq.com
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on web 
+- 📫 How to reach me 
 - &#x1F308; learn in xdu
 <!---
 batmanjo/batmanjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
