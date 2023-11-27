@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @batmanjo
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m @batmanjo;
+- 👀 I’m interested in java & go;
+- 🌱 I’m currently learning Spring Cloud
 - 💞️ I’m looking to collaborate on web 
-- 📫 How to reach me 
-- &#x1F308; 
+- 📫 How to reach me, email to 1205271990a@gmail.com 
+- &#x1F308 ; 
 
 [![batmanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=batmanjo)](https://github.com/batmanjo/github-readme-stats)
 <!---
