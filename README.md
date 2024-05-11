@@ -2,7 +2,7 @@
 - 👀 I’m interested in java & go;
 - 🌱 I’m currently learning Spring Cloud
 - 💞️ I’m looking to collaborate on web 
-- 📫 How to reach me, email to 1205271990a@gmail.com 
+- 📫 How to reach me, email to yanmiao.wu@qq.com
 - &#x1F308 ; 
 
 [![batmanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=batmanjo)](https://github.com/batmanjo/github-readme-stats)
