@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @batmanjo;
-- 👀 I’m interested in java & go;
+- 👀 I’m interested in java & javascript;
 - 🌱 I’m currently learning Spring Cloud
 - 💞️ I’m looking to collaborate on web 
 - 📫 How to reach me, email to yanmiao.wu@qq.com
-- &#x1F308 ; 
+- &#x1F308; 
 
 [![batmanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=batmanjo)](https://github.com/batmanjo/github-readme-stats)
 <!---
